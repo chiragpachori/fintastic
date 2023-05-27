@@ -1,0 +1,2 @@
+# fintastic
+Finance tracking
